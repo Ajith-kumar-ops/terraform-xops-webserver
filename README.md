@@ -8,7 +8,7 @@ This project uses **Terraform** to provision an AWS EC2 instance inside a custom
 
 ## 🧰 Prerequisites
 
-- Terraform installed (`terraform -v`)
+- Terraform installed (`terraform -v1.12.2`)
 - AWS CLI configured (`aws configure`)
-- An existing AWS EC2 Key Pair (e.g., `xops-key.pem`)
+- created AWS EC2 Key Pair
 - A GitHub account
